@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaizokubhaiya
-- 👀 I’m interested in Software development,Blockchain,etc.
-- 🌱 I’m currently learning C++ and JavaScript .
-- 
+- 👀 I’m interested in Blockchain software and core development.
+- 🌱 I’m currently learning Solidity and JavaScript.
+- 🔮 Web3 and NFTs are future.
 
 
 <!---
