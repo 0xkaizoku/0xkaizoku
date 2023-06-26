@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kaizoku
 - 👀 I’m interested in Blockchain software and core development.
 - 🌱 I’m currently learning Solidity and JavaScript.
-- 🔮 Web3 and NFTs are future.
+- 🔮 Web3 and NFT is future.
 
 
 <!---
