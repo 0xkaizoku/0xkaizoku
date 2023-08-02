@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kaizoku
 - 👀 I’m interested in Blockchain software and core development.
 - 👾 I’m currently learning Solidity,Typescript and JavaScript.
-- 🚀 DeFi and NFT is future
+- 🚀 DeFi and NFTs are future
 
 
 <!---
