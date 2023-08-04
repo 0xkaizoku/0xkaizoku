@@ -2,6 +2,7 @@
 - 👀 I’m interested in Blockchain software and core development.
 - 👾 I’m currently learning Solidity,Typescript and JavaScript.
 - 🚀 DeFi and NFTs are future
+- 🌱 BERN STACK
 
 
 <!---
