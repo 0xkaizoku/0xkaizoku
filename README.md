@@ -1,4 +1,5 @@
-# 💫 About Me:Embracing the Web3 era, diving deep into blockchain and NFTs. Building the future of decentralized applications. Join me on this exciting journey! 🚀
+# 💫 About Me :
+Embracing the Web3 era, diving deep into blockchain and NFTs. Building the future of decentralized applications. Join me on this exciting journey! 🚀
 🌱 I’m currently learning React, NodeJs and Solidity<br><br>💬 Ask me about Blockchain, NFT and Web3<br><br>📫 How to reach me https://www.linkedin.com/in/0xkaizoku/
 
 
